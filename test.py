@@ -1,5 +1,3 @@
 print("test")
 print("Github to Pycharm Clone")
 print("March 11th Edited")
-print("Jan 11th 2023 Edited")
-print('Success 2023')
